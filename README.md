@@ -1,4 +1,4 @@
-# 신규과제_2019732068_배경환
+# 6주차 과제 (챕터3)_2019732068_배경환
 P3.1 
 ---
 ![p3 1](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/cac8469f-439a-47f8-b705-ddf2d37a67d6)

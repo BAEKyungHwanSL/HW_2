@@ -1,22 +1,25 @@
 # 신규과제_2019732068_배경환
 P3.1 
 ---
-![p2 7-1](https://github.com/BAEKyungHwanSL/HW/assets/144303882/cf838148-1dbe-48dc-8764-1e98f0a1b1ba)  
-![p2 7-2](https://github.com/BAEKyungHwanSL/HW/assets/144303882/ab235369-a6bb-4d03-8b18-01516fce050c)  
+![p3 1](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/cac8469f-439a-47f8-b705-ddf2d37a67d6)
 
 P3.3
 ---
-![p2 12](https://github.com/BAEKyungHwanSL/HW/assets/144303882/568736b0-4971-440d-b4ce-c8dfe5093649)   
+![p3 3](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/026d1dff-559c-4c43-b85d-d94689a3fd5c)
+
 
 P3.5
 ---
-![p2 15](https://github.com/BAEKyungHwanSL/HW/assets/144303882/dfde48a2-c3de-4ee5-b40a-0f464f92459d) 
-![p2 15-2](https://github.com/BAEKyungHwanSL/HW/assets/144303882/da6c48f2-e163-44fc-aea6-278139d795cf)
+![p3 5](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/e8e78f09-5748-434f-b507-385ca10868b4)
 
 P3.12
 ---
-![p2 26](https://github.com/BAEKyungHwanSL/HW/assets/144303882/3bbb961c-1177-48a3-960b-0195229c145e)
+![p3 12-1](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/653eb4ef-523f-4f1a-b232-2d8549def81a)
+![p3 12-2](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/3b069226-8090-4ac8-a15d-d676219bc984)
+![p3 12-3](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/c0a7a216-0660-4b1b-96d5-24f128e824a0)
 
 P3.17
 ---
-![p2 37](https://github.com/BAEKyungHwanSL/HW/assets/144303882/36a2d9eb-ad9e-4947-a737-f658c7ecdfd6)
+![p3 17-1](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/94bbb9a6-0a98-4f8c-a700-3b82cf06d4d5)
+![p3 17-2](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/0e50f643-4e1e-4444-a11d-b0e8d0b78e8b)
+![p3 17-3](https://github.com/BAEKyungHwanSL/HW_2/assets/144303882/3115e1e6-5c24-4dc2-9ab8-732a84909831)
